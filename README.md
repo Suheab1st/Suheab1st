@@ -64,9 +64,7 @@ I'm continuously learning, building, and improving my development skills.
 
 📫 Connect With Me
 
-- 💻 GitHub: "@YourUsername" (https://github.com/YourUsername)
-- 💼 LinkedIn: "Your LinkedIn" (https://linkedin.com/)
-- 📧 Email: your-email@example.com
+- 📧 Email: jemalali443@gmail.com
 
 ---
 
